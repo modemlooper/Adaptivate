@@ -22,14 +22,14 @@ If the file exists and the user visits the site from a mobile device the mobile 
 
 List of files you can copy over to /mobile/
 
- index.php
- single.php
- page.php
- archive.php
- category.php
- taxonomy.php
- tag.php
- author.php
- 404.php
- search.php
- attachment.php
+* index.php
+* single.php
+* page.php
+* archive.php
+* category.php
+* taxonomy.php
+* tag.php
+* author.php
+* 404.php
+* search.php
+* attachment.php
