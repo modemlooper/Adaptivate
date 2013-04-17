@@ -18,7 +18,7 @@ Copy over a theme file from your theme to the mobile folder and prefix the file 
  single.php becomes mobile-single.php
 
 
-If the file exists and the user visits the site from a mobile device the mobile template file will be served instead. You can edit this file removing things you do not want to display on mobile devices. Sidebars are a good thing to drop from mobile. Sidebars create more content for a mobile device to render and can slow down the page and degrade the experience. Maybe you only want to show the_exceprt on mobile.
+If the file exists and the user visits the site from a mobile device the mobile template file will be served instead. You can edit this file removing things you do not want to display on mobile devices. Sidebars are a good thing to drop from mobile. Sidebars create more content for a mobile device to render and can slow down the page and degrade the experience. Maybe you only want to show the_excerpt on mobile.
 
 List of files you can copy over to /mobile/
 
